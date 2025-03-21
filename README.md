@@ -8,5 +8,7 @@ Analytics Portfolio which showcases my projects and analytical skills
         
           Markdown file of analysis :
     
-          [covid19 data analysis notebook.md](https://github.com/user-attachments/files/19390349/covid19.data.analysis.notebook.md)
-          [Covid19 Data Analysis Notebook (1).zip](https://github.com/user-attachments/files/19390337/Covid19.Data.Analysis.Notebook.1.zip)
+          Covid19 data analysis # Markdown file :
+              (https://github.com/user-attachments/files/19390349/covid19.data.analysis.notebook.md)
+    
+          Covid19 Data Analysis Notebook(https://github.com/user-attachments/files/19390337/Covid19.Data.Analysis.Notebook.1.zip)
