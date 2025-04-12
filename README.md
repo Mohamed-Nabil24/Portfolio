@@ -1,9 +1,15 @@
-# Portfolio
-Analytics Portfolio which showcases my projects and analytical skills
-## These are my data analytics projects listed :
+# Data Analytics Portfolio
+## Case Studies :
+-----
+1- My First Data Analytics Case Study | Google Data Analytics Capstone Project [Link to Project][]
 
-1.  # Coursera Guided Project  :
-     Covid-19 Data Analysis :
+
+
+
+------
+## Guided Projects : 
+1.  Coursera Guided Projects | Covid-19 Data Analysis : :
+     
        This analysis aimed to deduce which factors accross two datasets were the main driving reason behind the rise of covid cases in certain countries:
     Project Notebook as pdf : 
            
