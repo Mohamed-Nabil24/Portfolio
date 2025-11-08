@@ -6,10 +6,8 @@
 ### Objective :
 - Analyze how different annual members and casual riders use Cyclistic.
 -  Design a marketing strategy aimed at converting casual riders into annual members.
-### 2- Power BI eCommerce Dashboard: Key Insights & KPI Tracking - [Link to Project]
-()
-### 3- An analysis of the engagement data for the month of May across 2017 and 2018 - [Link to Project]
-()
+### 2- Power BI eCommerce Dashboard: Key Insights & KPI Tracking - [Link to Project]()
+### 3- An analysis of the engagement data for the month of May across 2017 and 2018 - [Link to Project]()
  
 ------
 ## Guided Projects : 
